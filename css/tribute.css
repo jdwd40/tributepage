@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@500&display=swap');
+
+body {
+    background-color: #f8f8ff;
+}
+
+#title {
+    /*font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    height: 55px;
+}
+
+#image {
+    border-radius: 5%;
+    margin-top: 5em;
+    
+}
+
+#tribute-info {
+    /*font-family: 'Merriweather', serif;*/
+    font-family: 'Montserrat', sans-serif;
+}
+
+#img-caption {
+    color: #903;
+    font-weight: bold;
+}
+
+.list-style{
+    list-style-type: square;
+    padding-left: 17px;
+}
+
+
+.drop {
+    color: #903;
+    float: left;
+    font-family: Georgia;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 0px;
+  }
+
